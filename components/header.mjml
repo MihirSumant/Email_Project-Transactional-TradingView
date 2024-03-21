@@ -1,0 +1,7 @@
+<mj-section background-color="white">
+
+  <mj-column>
+    <mj-image src="https://i.postimg.cc/k46WC5Wm/Logo-Trading-View.png" alt="Trading View logo" align="center" width="158px" height="28px" padding-bottom="0px" />
+  </mj-column>
+
+</mj-section>

@@ -1,0 +1,33 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        font-family: -apple-system, BlinkMacSystemFont, 'Trebuchet MS', Roboto, Ubuntu, sans-serif;
+        box-sizing: border-box;
+      }
+
+      .links:hover {
+        color: #5b9cf6;
+        text-decoration: underline;
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .line-item {
+        border-bottom: 1px solid #e0e3eb;
+      }
+
+      .remove-underline a {
+        text-decoration: none;
+        color: #5b9cf6;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="white">
+    <mj-include path="./components/header.mjml" />
+    <mj-include path="./components/section1ThankYou.mjml" />
+    <mj-include path="./components/section2PaymentInfo.mjml" />
+    <mj-include path="./components/section3BillSummary.mjml" />
+    <mj-include path="./components/section4AddressInfo.mjml" />
+    <mj-include path="./components/footer.mjml" />
+  </mj-body>
+</mjml>

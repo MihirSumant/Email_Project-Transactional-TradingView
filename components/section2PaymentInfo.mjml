@@ -1,0 +1,29 @@
+<mj-section background-color="#f8f9fd">
+  <mj-group>
+    <mj-column>
+      <mj-text color="#787b86">
+        Amount Paid
+      </mj-text>
+      <mj-text>
+        $225.50
+      </mj-text>
+    </mj-column>
+    <mj-column>
+      <mj-text color="#787b86">
+        Date Paid
+      </mj-text>
+      <mj-text>
+        2023-10-27 19:30
+      </mj-text>
+    </mj-column>
+    <mj-column>
+      <mj-text color="#787b86" align="center">
+        Payment Method
+      </mj-text>
+      <mj-text align="center">
+        Bank Card
+      </mj-text>
+    </mj-column>
+  </mj-group>
+
+</mj-section>

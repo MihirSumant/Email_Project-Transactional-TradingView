@@ -1,0 +1,62 @@
+<mj-section background-color="white" padding="0px" padding-top="60px" padding-bottom="25px">
+  <mj-group>
+    <mj-column>
+      <mj-text color="#787b86" padding="0px" font-size="16px" line-height="24px" font-weight="400" font-family="-apple-system, BlinkMacSystemFont,'Trebuchet MS', Roboto, Ubuntu, sans-serif;">
+        Thanks for reading,
+        <br>
+        The TradingView Team
+      </mj-text>
+    </mj-column>
+    <mj-column>
+      <mj-text color="#787b86" padding="0px" font-size="16px" align="right" line-height="24px" font-weight="400" font-family="-apple-system, BlinkMacSystemFont,'Trebuchet MS', Roboto, Ubuntu, sans-serif;">
+        470 Olde Worthington Rd., Suite 200
+        <br>
+        Westville OH 43082
+      </mj-text>
+    </mj-column>
+  </mj-group>
+</mj-section>
+<mj-section background-color="white" padding="0px" padding-bottom="25px" css-class="line-item">
+  <mj-group>
+    <mj-column padding="0">
+      <mj-text css-class="remove-underline links" padding="0px" font-size="14px" font-weight="400">
+        <a href="https://itunes.apple.com/us/app/tradingview-trading-community-charts-and-quotes/id1205990992">App Store</a>
+      </mj-text>
+    </mj-column>
+    <mj-column padding="0">
+      <mj-text css-class="remove-underline links" padding="0px" font-size="14px" font-weight="400">
+        <a href="https://itunes.apple.com/us/app/tradingview-trading-community-charts-and-quotes/id1205990992">Google Play</a>
+      </mj-text>
+    </mj-column>
+    <mj-column padding="0">
+      <mj-text css-class="remove-underline links" padding="0px" font-size="14px" font-weight="400">
+        <a href="">Desktop App</a>
+      </mj-text>
+    </mj-column>
+  </mj-group>
+  <mj-group>
+    <mj-column padding="0">
+      <mj-text css-class="remove-underline links" padding="0px" font-size="14px" font-weight="400" align="right">
+        <a href="">Facebook</a>
+      </mj-text>
+    </mj-column>
+    <mj-column padding="0">
+      <mj-text css-class="remove-underline links" padding="0px" font-size="14px" font-weight="400" align="right">
+        <a href="">YouTube</a>
+      </mj-text>
+    </mj-column>
+    <mj-column padding="0">
+      <mj-text css-class="remove-underline links" padding="0px" font-size="14px" font-weight="400" align="right">
+        <a href="">LinkedIn</a>
+      </mj-text>
+    </mj-column>
+    <mj-column padding="0">
+      <mj-text css-class="remove-underline links" padding="0px" font-size="14px" font-weight="400" align="right">
+        <a href="">Twitter</a>
+      </mj-text>
+    </mj-column>
+  </mj-group>
+
+
+
+</mj-section>

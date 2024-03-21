@@ -1,0 +1,10 @@
+<mj-section background-color="white">
+  <mj-column>
+    <mj-text css-class="remove-underline" color="#787b86" line-height="21px" align="center" font-family="-apple-system, BlinkMacSystemFont,'Trebuchet MS', Roboto, Ubuntu, sans-serif;">
+      This email was sent to <a href="https://www.tradingview.com/">johnsmith@gmail.com</a>
+      <br>
+      because you signed up at <a href="">TradingView.com.</a>
+    </mj-text>
+  </mj-column>
+
+</mj-section>

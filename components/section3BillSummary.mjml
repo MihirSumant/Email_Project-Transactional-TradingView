@@ -1,0 +1,46 @@
+<mj-section background-color="white">
+  <mj-column>
+    <mj-text font-size="24px" line-height="32px" font-weight="600" align="center" padding="0px" padding-top="15px" font-family="-apple-system, BlinkMacSystemFont,'Trebuchet MS', Roboto, Ubuntu, sans-serif;">
+      Summary
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section background-color="white" css-class="line-item">
+  <mj-group>
+    <mj-column>
+      <mj-text css-class="line-item" padding-left="0px" color="#787b86">
+        Product
+      </mj-text>
+      <mj-text css-class="line-item" padding-left="0px">
+        Essential
+      </mj-text>
+      <mj-text padding-left="0px">
+        Subtotal
+      </mj-text>
+      <mj-text padding-left="0px" css-class="line-item">
+        Tax
+      </mj-text>
+      <mj-text font-size="18px" font-weight="700" padding-left="0px">
+        Total
+      </mj-text>
+    </mj-column>
+    <mj-column>
+      <mj-text align="right" css-class="line-item" padding-right="0px" color="#787b86">
+        Price
+      </mj-text>
+      <mj-text align="right" css-class="line-item" padding-right="0px">
+        $200
+      </mj-text>
+      <mj-text align="right" padding-right="0px">
+        $200
+      </mj-text>
+      <mj-text align="right" padding-right="0px" css-class="line-item">
+        $25.50
+      </mj-text>
+      <mj-text font-size="18px" font-weight="700" align="right" padding-right="0px">
+        $225.50
+      </mj-text>
+    </mj-column>
+  </mj-group>
+
+</mj-section>

@@ -1,0 +1,13 @@
+<mj-section background-color="white" padding="0px">
+  <mj-column>
+    <mj-image src="https://i.postimg.cc/bvF14nDg/Icon-Contract.png" alt="Clip Art of a Contract" width="120px" height="120px" />
+    <mj-text font-size="34px" line-height="40px" font-weight="600" align="center" font-family="-apple-system, BlinkMacSystemFont,'Trebuchet MS', Roboto, Ubuntu, sans-serif;">
+      Thank you for your purchase
+    </mj-text>
+    <mj-text align="center" line-height="18px" color="#787b86" font-size="14px" padding-bottom="25px">
+      Receipt: 24rgte71
+      <br>
+      Username: John_Smith
+    </mj-text>
+  </mj-column>
+</mj-section>
